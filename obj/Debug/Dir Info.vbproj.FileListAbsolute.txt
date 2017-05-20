@@ -1,0 +1,34 @@
+D:\Projects\Dir Info\obj\Debug\Dir Info.exe
+D:\Projects\Dir Info\obj\Debug\Dir Info.xml
+D:\Projects\Dir Info\obj\Debug\Dir Info.pdb
+D:\Projects\Dir Info\bin\Debug\Dir Info.exe
+D:\Projects\Dir Info\bin\Debug\Dir Info.pdb
+D:\Projects\Dir Info\bin\Debug\Dir Info.xml
+D:\Projects\Dir Info\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Dir Info\obj\Debug\Dir_Info.Explorer1.resources
+D:\Projects\Dir Info\obj\Debug\Dir_Info.Form1.resources
+D:\Projects\Dir Info\obj\Debug\Dir_Info.Form2.resources
+D:\Projects\Dir Info\obj\Debug\Dir_Info.Resources.resources
+D:\Projects\Dir Info\obj\Debug\GenerateResource.read.1.tlog
+D:\Projects\Dir Info\obj\Debug\GenerateResource.write.1.tlog
+D:\Projects\Dir Info\bin\Debug\Dir Info.exe.manifest
+D:\Projects\Dir Info\bin\Debug\Dir Info.application
+D:\Projects\Dir Info\obj\Debug\Dir Info.exe.manifest
+D:\Projects\Dir Info\obj\Debug\Dir Info.application
+C:\Projects\VS2015\Dir Info\obj\Debug\Dir Info.exe
+C:\Projects\VS2015\Dir Info\obj\Debug\Dir Info.xml
+C:\Projects\VS2015\Dir Info\obj\Debug\Dir Info.pdb
+C:\Projects\VS2015\Dir Info\obj\Debug\Dir Info.vbprojResolveAssemblyReference.cache
+C:\Projects\VS2015\Dir Info\obj\Debug\Dir_Info.Explorer1.resources
+C:\Projects\VS2015\Dir Info\obj\Debug\Dir_Info.Form1.resources
+C:\Projects\VS2015\Dir Info\obj\Debug\Dir_Info.Form2.resources
+C:\Projects\VS2015\Dir Info\obj\Debug\Dir_Info.Resources.resources
+C:\Projects\VS2015\Dir Info\obj\Debug\Dir Info.vbproj.GenerateResource.Cache
+C:\Projects\VS2015\Dir Info\bin\Debug\Dir Info.exe.manifest
+C:\Projects\VS2015\Dir Info\bin\Debug\Dir Info.application
+C:\Projects\VS2015\Dir Info\bin\Debug\Dir Info.exe
+C:\Projects\VS2015\Dir Info\bin\Debug\Dir Info.pdb
+C:\Projects\VS2015\Dir Info\bin\Debug\Dir Info.xml
+C:\Projects\VS2015\Dir Info\obj\Debug\Dir Info.exe.manifest
+C:\Projects\VS2015\Dir Info\obj\Debug\Dir Info.application
+C:\Projects\VS2015\Dir Info\bin\Debug\Dir Info.exe.config

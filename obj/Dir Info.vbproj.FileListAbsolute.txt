@@ -1,0 +1,48 @@
+D:\Projects\Dir Info\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Dir Info\obj\Debug\Dir_Info.Form1.resources
+D:\Projects\Dir Info\obj\Debug\Dir_Info.Resources.resources
+D:\Projects\Dir Info\obj\Debug\Dir Info.vbproj.GenerateResource.Cache
+D:\Projects\Dir Info\bin\Debug\Dir Info.exe
+D:\Projects\Dir Info\bin\Debug\Dir Info.pdb
+D:\Projects\Dir Info\bin\Debug\Dir Info.xml
+D:\Projects\Dir Info\obj\Debug\Dir Info.exe
+D:\Projects\Dir Info\obj\Debug\Dir Info.xml
+D:\Projects\Dir Info\obj\Debug\Dir Info.pdb
+D:\Projects\Dir Info\obj\Debug\Dir_Info.Form2.resources
+D:\Projects\Dir Info\obj\Debug\Dir_Info.Explorer1.resources
+D:\Projects\Dir Info\bin\Release\Dir Info.exe
+D:\Projects\Dir Info\bin\Release\Dir Info.pdb
+D:\Projects\Dir Info\bin\Release\Dir Info.xml
+D:\Projects\Dir Info\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\Dir Info\obj\Release\Dir_Info.Explorer1.resources
+D:\Projects\Dir Info\obj\Release\Dir_Info.Form1.resources
+D:\Projects\Dir Info\obj\Release\Dir_Info.Form2.resources
+D:\Projects\Dir Info\obj\Release\Dir_Info.Resources.resources
+D:\Projects\Dir Info\obj\Release\Dir Info.vbproj.GenerateResource.Cache
+D:\Projects\Dir Info\obj\Release\Dir Info.exe
+D:\Projects\Dir Info\obj\Release\Dir Info.xml
+D:\Projects\Dir Info\obj\Release\Dir Info.pdb
+C:\[Projects]\Dir Info\obj\Release\Dir Info.exe
+C:\[Projects]\Dir Info\obj\Release\Dir Info.xml
+C:\[Projects]\Dir Info\obj\Release\Dir Info.pdb
+C:\[Projects]\Dir Info\bin\Release\Dir Info.exe
+C:\[Projects]\Dir Info\bin\Release\Dir Info.pdb
+C:\[Projects]\Dir Info\bin\Release\Dir Info.xml
+C:\[Projects]\Dir Info\obj\Release\ResolveAssemblyReference.cache
+C:\[Projects]\Dir Info\obj\Release\Dir_Info.Explorer1.resources
+C:\[Projects]\Dir Info\obj\Release\Dir_Info.Form1.resources
+C:\[Projects]\Dir Info\obj\Release\Dir_Info.Form2.resources
+C:\[Projects]\Dir Info\obj\Release\Dir_Info.Resources.resources
+C:\[Projects]\Dir Info\obj\Release\Dir Info.vbproj.GenerateResource.Cache
+C:\[Projects]\Dir Info\bin\Debug\Dir Info.exe
+C:\[Projects]\Dir Info\bin\Debug\Dir Info.pdb
+C:\[Projects]\Dir Info\bin\Debug\Dir Info.xml
+C:\[Projects]\Dir Info\obj\Debug\ResolveAssemblyReference.cache
+C:\[Projects]\Dir Info\obj\Debug\Dir_Info.Explorer1.resources
+C:\[Projects]\Dir Info\obj\Debug\Dir_Info.Form1.resources
+C:\[Projects]\Dir Info\obj\Debug\Dir_Info.Form2.resources
+C:\[Projects]\Dir Info\obj\Debug\Dir_Info.Resources.resources
+C:\[Projects]\Dir Info\obj\Debug\Dir Info.vbproj.GenerateResource.Cache
+C:\[Projects]\Dir Info\obj\Debug\Dir Info.exe
+C:\[Projects]\Dir Info\obj\Debug\Dir Info.xml
+C:\[Projects]\Dir Info\obj\Debug\Dir Info.pdb
